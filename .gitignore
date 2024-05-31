@@ -125,6 +125,9 @@ dmypy.json
 build/
  ./venv
  ./ip_addresses
+ ./ip_addresses/ip_addresses.xlsx
  ip_addresses/
  /ip_addresses/ip_addresses.xlsx
  
+# macOS directory metadata
+.DS_Store
