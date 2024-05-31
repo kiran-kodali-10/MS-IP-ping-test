@@ -124,10 +124,8 @@ dmypy.json
 # Build directory
 build/
  ./venv
- ./ip_addresses
- ./ip_addresses/ip_addresses.xlsx
- ip_addresses/
- /ip_addresses/ip_addresses.xlsx
+  ip_addresses/
+
  
 # macOS directory metadata
 .DS_Store
