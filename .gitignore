@@ -124,3 +124,7 @@ dmypy.json
 # Build directory
 build/
  ./venv
+ ./ip_addresses
+ ip_addresses/
+ /ip_addresses/ip_addresses.xlsx
+ 
